@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header1 {
+    background-image: linear-gradient(to right, rgba(132, 204, 22, 0.7), rgba(132, 204, 22, 0.7)), url("/calorie.jpg");
+    background-position: 50%;
+    background-size: cover;
+    position: relative;
+}
